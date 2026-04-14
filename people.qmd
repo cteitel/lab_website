@@ -1,0 +1,32 @@
+---
+title: "People"
+---
+
+## Claire Teitelbaum (PI)
+
+<img src="images/Claire_headshot.jpg" width="180" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px;">
+
+I am an Assistant Unit Leader in the [Georgia Cooperative Fish & Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Georgia) and an Adjunct Assistant Professor in the [Warnell School of Forestry and Natural Resources](https://warnell.uga.edu/) at the University of Georgia. My research is at the intersection of animal movement ecology, spatial ecology, and disease ecology. I study the effects of landscape changes on wildlife behavior and infectious diseases using mathematical and statistical models. One of the great parts about being a modeler in ecology is that I get work with data and concepts from lots of different fields and systems, so I am always learning new techniques and more natural history. I have studied whooping cranes, waterfowl, brown bears, ungulates, ibis, and bats, plus some of their parasites and pathogens. For more details on my research, please see the Research page.
+
+I received my PhD from the Odum School of Ecology at the University of Georgia and was previously a post-doc with at the USGS Eastern Ecological Science Center (formerly Patuxent Wildlife Research Center) and NASA Ames Research Center.
+
+Collaboration is one of my favorite parts of doing scientific research, so if you're interested in working together or just talking about a project, please get in touch!
+
+<br style="clear: both;">
+
+## Tobias Haymes (PhD Student)
+
+<!-- <img src="images/Claire_headshot.jpg" width="180" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px;"> -->
+
+Blurb coming!
+
+<br style="clear: both;">
+
+## Zach Vickers (PhD Student)
+
+<!-- <img src="images/Claire_headshot.jpg" width="180" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px;"> -->
+
+Blurb coming!
+
+<br style="clear: both;">
+

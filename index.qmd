@@ -1,11 +1,5 @@
 ---
-title: "Lab_website"
+title: "Welcome!"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Explore these pages to learn more about us and what we do.

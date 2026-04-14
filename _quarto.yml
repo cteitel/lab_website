@@ -2,13 +2,23 @@ project:
   type: website
 
 website:
-  title: "Lab_website"
+  title: "Teitelbaum Lab (Wildlife Ecology at the Georgia CRU)"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - people.qmd
+      - publications.qmd
+      - news.qmd
+    right:
+      - text: "![](images/icons8-google-scholar-24.png)"
+        href: "https://scholar.google.com/citations?hl=en&user=kFKjTJYAAAAJ&view_op=list_works&sortby=pubdate"
+      - icon: envelope
+        href: mailto:cteitelbaum@uga.edu
+  page-footer:
+    left: "Website made with [Quarto](https://quarto.org/), by Claire Teitelbaum. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    
 format:
   html:
     theme:

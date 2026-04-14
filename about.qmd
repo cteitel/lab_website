@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+Welcome to the Teitelbaum Lab in the Georgia Cooperative Fish and Wildlife Research Unit at the University of Georgia. We work on answering questions related to the ecology of wildlife populations, with many interests in animal movement, infectious disease, spatial analysis, ornithology, ecotoxicology and beyond!
 
-```{r}
-1 + 1
-```
+We are particularly interested in making sure that our research is timely, relevant, and applicable to conservation in Georgia and beyond.
