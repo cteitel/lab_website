@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - people.qmd
+      - research.qmd
       - publications.qmd
       - news.qmd
     right:
