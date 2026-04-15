@@ -7,7 +7,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - people.qmd
       - publications.qmd
       - news.qmd
