@@ -2,7 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
 
 /.quarto/
 **/*.quarto_ipynb
 .positai
+/_site/
