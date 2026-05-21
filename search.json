@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Our research is varied. We work in multiple systems and use different methods, often collaborating with other groups with expertise in lab and field techniques. Much of our research relies on compiling data from multiple sources, including individual studies, monitoring datasets, camera traps, and remote sensing. Here are a few of the themes that cut across our research:"
+  },
+  {
+    "objectID": "research.html#landscapes-movement-and-disease",
+    "href": "research.html#landscapes-movement-and-disease",
+    "title": "Research",
+    "section": "Landscapes, movement, and disease",
+    "text": "Landscapes, movement, and disease\n\nMovement is, in part, an adaptation to environments that vary in space and time. Animal movements can also have dramatic impacts on populations, communities, and ecosystems, including on the spread and transmission of infectious disease. We study these environment-movement-disease interactions and feedbacks using a combination of remotely sensed data on the environment, animal tracking, diagnostic data, and simulations. Ongoing work includes investigations into non-migratory movements of waterfowl and their implications for the spread of highly pathogenic avian influenza."
+  },
+  {
+    "objectID": "research.html#habitat-use-and-selection-across-scales",
+    "href": "research.html#habitat-use-and-selection-across-scales",
+    "title": "Research",
+    "section": "Habitat use and selection across scales",
+    "text": "Habitat use and selection across scales\n\nQuantifying animals’ habitat requirements can improve our understanding of their natural history, which can inform local management actions and predictions for future range shifts. However, these requirements vary across life-history stages, among individuals, and among populations. By integrating multiple data sources, we aim to understand how habitat use and habitat selection vary across individuals, space, and time. Prior work on habitat selection of moose in response to temperature and on potential overlap between waterfowl and poultry investigated these questions. Ongoing work studies habitat use and occupancy of bats across the ecoregions of Georgia."
+  },
+  {
+    "objectID": "research.html#conservation-behavior-and-adaptation",
+    "href": "research.html#conservation-behavior-and-adaptation",
+    "title": "Research",
+    "section": "Conservation, behavior, and adaptation",
+    "text": "Conservation, behavior, and adaptation\n\nEffective conservation requires understanding how individuals respond and adapt to changes in their environments. These responses might be in foraging (e.g., brown bears in Europe responding to supplemental ungulate feeding), migration (e.g., reintroduced whooping cranes), or infection (e.g., wild waterfowl and avian influenza)."
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
