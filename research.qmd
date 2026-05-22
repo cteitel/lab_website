@@ -6,7 +6,7 @@ Our research is varied. We work in multiple systems and use different methods, o
 
 ## Landscapes, movement, and disease
 
-![](images/duck_family.jpg){style="float: right; margin-left: 20px; margin-bottom: 10px; border-radius: 8px;" fig-alt="a group of ducks swimming on water" width="245"}
+![](images/duck_family.JPG){fig-alt="a group of ducks swimming on water" style="float: right; margin-left: 20px; margin-bottom: 10px; border-radius: 8px;" width="237"}
 
 Movement is, in part, an adaptation to environments that vary in space and time. Animal movements can also have dramatic impacts on populations, communities, and ecosystems, including on the spread and transmission of infectious disease. We study these environment-movement-disease interactions and feedbacks using a combination of remotely sensed data on the environment, animal tracking, diagnostic data, and simulations. Ongoing work includes investigations into [non-migratory movements of waterfowl and their implications for the spread of highly pathogenic avian influenza](https://doi.org/10.1111/ele.70265).
 
