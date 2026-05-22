@@ -18,7 +18,7 @@ Collaboration is one of my favorite parts of doing scientific research, so if yo
 
 <!-- <img src="images/Claire_headshot.jpg" width="180" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px;"> -->
 
-Blurb coming!
+Blurb coming soon!
 
 <br style="clear: both;">
 
@@ -26,6 +26,6 @@ Blurb coming!
 
 <!-- <img src="images/Claire_headshot.jpg" width="180" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px;"> -->
 
-Blurb coming!
+I am a PhD student in the Warnell School of Natural Resources and Forestry at the University of Georgia, currently researching habitat selection of southeastern bats, with a focus on the tricolored bat (*Perimyotis subflavus*). I received my M.S. in Biology at Missouri State University and my B.S.E.S. in Environmental Economics and Management from UGA. My scientific interests are wide-ranging and encompass the disciplines of ecology, biogeography, ethology, and more. I am especially interested in understanding the ecological processes that drive species distributions, and how populations differ in both traits and outcomes across geographic space. Having conducted wildlife research in the field for several years, I’ve gained familiarity with many unique ecosystems across the Southeast, Midwest, and West Coast of the United States. Now that I have returned to UGA, I am excited to pair my interests in natural history and data science toward research that will assist management efforts to conserve at-risk southeastern bat species.
 
 <br style="clear: both;">
